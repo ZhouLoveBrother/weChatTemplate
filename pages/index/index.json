@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "weChat",
+  "usingComponents": {
+    "parser": "/assets/parser/parser" 
+  }
+}
