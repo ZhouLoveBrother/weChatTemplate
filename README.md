@@ -54,9 +54,8 @@ state: {
 
 ### 任何问题或有误人子弟的地方还请多多指教
 ```
-Author: Gavin
-QQ: 3020990880
-WeChat: Gavinpeng0831
-Email: Gavinpengemall@vip.qq.com
+Author: 红尘戏子
+QQ: 719246338
+Email: 719246338.qq.com
 Des: If you don't go forward, you don't know the distance; if you don't study hard, you don't understand the truth.
 ```
